@@ -4,7 +4,7 @@
     "homepage": "https://github.com/Hossiy21/razify",
     "license": "MIT",
     "url": "https://github.com/Hossiy21/razify/archive/refs/tags/v0.1.0.zip",
-    "hash": "REPLACE_AFTER_RELEASE",
+    "hash": "55927744cccecfa8f03799989f302029d459edd062bb60e9bd204f403e0fbe24",
     "bin": "razify.exe",
     "checkver": "github",
     "autoupdate": {
