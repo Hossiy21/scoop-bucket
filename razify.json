@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "description": "The missing CLI tool for .env file management",
+    "homepage": "https://github.com/Hossiy21/razify",
+    "license": "MIT",
+    "url": "https://github.com/Hossiy21/razify/archive/refs/tags/v0.1.0.zip",
+    "hash": "REPLACE_AFTER_RELEASE",
+    "bin": "razify.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Hossiy21/razify/archive/refs/tags/v$version.zip"
+    }
+}
