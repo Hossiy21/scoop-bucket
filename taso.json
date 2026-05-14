@@ -1,0 +1,22 @@
+{
+    "version": "1.0.7",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Hossiy21/taso/releases/download/v1.0.7/taso_Windows_x86_64.zip",
+            "bin": [
+                "taso.exe"
+            ],
+            "hash": "d011360fbd04ced99e1cca3db30c9c9c5541ab7503f2b990d9981533062ad118"
+        },
+        "arm64": {
+            "url": "https://github.com/Hossiy21/taso/releases/download/v1.0.7/taso_Windows_arm64.zip",
+            "bin": [
+                "taso.exe"
+            ],
+            "hash": "825e030e7f532d4f17feab0d1cfb46b4ece9463dc7168d8a952cbdcfbfb71747"
+        }
+    },
+    "homepage": "https://github.com/Hossiy21/taso",
+    "license": "MIT",
+    "description": "Find env vars your code calls but don't exist in your .env files"
+}
